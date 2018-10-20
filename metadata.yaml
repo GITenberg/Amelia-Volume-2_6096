@@ -1,5 +1,5 @@
 _repo: Amelia-Volume-2_6096
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -34,5 +34,6 @@ subjects:
 - !lcsh 'England -- Fiction'
 - !lcsh 'Domestic fiction'
 - !lcsh 'Married women -- Fiction'
+- GITenberg
 title: Amelia — Volume 2
 url: http://www.gutenberg.org/ebooks/6096
